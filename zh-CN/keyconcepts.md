@@ -25,3 +25,11 @@
 ## Restful
 
 暂时只支持内部访问，代码位于：/common/modules/rest，自行添加代码，可用于vue.js等框架调用。
+
+## 采集
+
+提供导入Rss2数据的功能，代码对于：/console/controllers/ArticleController.php，使用命令行yii article/import-rss。
+
+>    导入会自动下载图片到本地。
+
+>    后台编辑器有提供下载图片的功能。
