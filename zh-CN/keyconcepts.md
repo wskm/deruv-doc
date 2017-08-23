@@ -8,7 +8,7 @@
 
 >    前台通过 \service\Block::shows 方法调用。
 >
->    阅读 app_frontend/themes/default/site/index.php 获得范例。
+>    阅读 /app_frontend/themes/default/site/index.php 获得范例。
 
 ## 根目录 /service
 
