@@ -14,15 +14,15 @@
 如果你已经安装有 Composer 请确保使用的是最新版本，你可以用 `composer self-update` 命令更新 Composer 为最新版本。
 
 ## 安装 Deruv
-> 使用中国镜像：
+使用中国镜像：
 
     composer config -g repo.packagist composer https://packagist.phpcomposer.com
     
-> 包管理插件：
+包管理插件：
 
     composer global require "fxp/composer-asset-plugin:^1.3.1"
-    
-> 安装Deruv
+  
+安装Deruv
 
     composer create-project wskm/deruv
 
