@@ -3,6 +3,6 @@ Deruv基于[Yii2](http://www.yiiframework.com/)高级版开发，需要对Yii2�
 
 [安装](/install.md)
 
-[关键概念](/z)
+[关键概念](/keyconcepts.md)
 
 
