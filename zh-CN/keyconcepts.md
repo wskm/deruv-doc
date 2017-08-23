@@ -24,4 +24,4 @@
 
 ## Restful
 
-暂时只支持内部访问，代码位于：/common/modules/rest，自行添加代码，可用于vue.js等调用。
+暂时只支持内部访问，代码位于：/common/modules/rest，自行添加代码，可用于vue.js等框架调用。
