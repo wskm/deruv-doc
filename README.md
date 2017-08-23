@@ -19,11 +19,11 @@ Deruv基于[Yii2](http://www.yiiframework.com/)高级版开发，学习yii2能�
 
 ## 安装 Deruv
 > 使用中国镜像：
->    composer config -g repo.packagist composer https://packagist.phpcomposer.com
+    composer config -g repo.packagist composer https://packagist.phpcomposer.com
 > 包管理插件：
->    composer global require "fxp/composer-asset-plugin:^1.3.1"
+    composer global require "fxp/composer-asset-plugin:^1.3.1"
 > 安装Deruv
->    composer create-project wskm/deruv
+    composer create-project wskm/deruv
 
 接下来你需要配置web服务器来访问Deruv的前台、后台。
 
