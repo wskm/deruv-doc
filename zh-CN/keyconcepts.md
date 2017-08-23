@@ -21,3 +21,7 @@
 ## 缓存更新
 
 如果你使用的 \service\Block 或 \service\Content 类获得缓存数据，可通过后台设置中的“刷新缓存”配置项来立即更新缓存。
+
+## Restful
+
+暂时只支持内部访问，代码位于：/common/modules/rest，自行添加代码，可用于vue.js等调用。
