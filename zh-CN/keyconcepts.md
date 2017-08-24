@@ -26,6 +26,8 @@
 
 暂时只支持内部访问，代码位于：/common/modules/rest，自行添加代码，可用于vue.js等框架调用。
 
+在后台中已经配置，访问：http://后台/index.php?r=rest/category 可以得到分类列表。
+
 ## 采集
 
 提供导入Rss2数据的功能，代码对于：/console/controllers/ArticleController.php，使用命令行yii article/import-rss。
