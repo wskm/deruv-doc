@@ -7,7 +7,7 @@
 </h4>
 
 <h4>
-	<b>支付宝扫描捐赠</b>：<img src="/imgs/alipay.png">
+	<b>支付宝扫描捐赠</b>：<img src="/static/imgs/alipay.jpg">
 </h4>
 
 <h4>
