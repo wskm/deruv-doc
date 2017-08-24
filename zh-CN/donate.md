@@ -17,12 +17,14 @@
 			<input type="hidden" name="cmd" value="_s-xclick">
 			<input type="hidden" name="hosted_button_id" value="xxx">
 			<table>
-			<tr><td><input type="hidden" name="on0" value="support beego">support deruv</td></tr><tr><td><select name="os0">
-				<option value="Option 1">Option 1 $30.00 USD</option>
-				<option value="Option 2">Option 2 $50.00 USD</option>
-				<option value="Option 3">Option 3 $100.00 USD</option>
-				<option value="Option 4">Option 4 $500.00 USD</option>
-			</select> </td></tr>
+			<tr><td><input type="hidden" name="on0" value="support beego">support deruv</td></tr><tr><td>
+				<select name="os0">
+					<option value="Option 1">Option 1 $30.00 USD</option>
+					<option value="Option 2">Option 2 $50.00 USD</option>
+					<option value="Option 3">Option 3 $100.00 USD</option>
+					<option value="Option 4">Option 4 $500.00 USD</option>
+				</select> 
+			</td></tr>
 			</table>
 			<input type="hidden" name="currency_code" value="USD">
 			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
