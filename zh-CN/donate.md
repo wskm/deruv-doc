@@ -13,7 +13,7 @@
 		<input type="hidden" name="cmd" value="_s-xclick">
 		<input type="hidden" name="hosted_button_id" value="xxx">
 		<table>
-		<tr><td><input type="hidden" name="on0" value="support beego">support deruv</td></tr><tr><td>
+		<tr><td><input type="hidden" name="on0" value="support deruv">support deruv</td></tr><tr><td>
 			<select name="os0">
 				<option value="Option 1">Option 1 $30.00 USD</option>
 				<option value="Option 2">Option 2 $50.00 USD</option>
