@@ -6,6 +6,10 @@
 
 <img src="/static/imgs/alipay.jpg">
 
+## 微信扫描捐赠
+
+<img src="/static/imgs/wx.jpg">
+
 ## Paypal捐赠
 
 <p>
