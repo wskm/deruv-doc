@@ -39,7 +39,7 @@
 ## Tag
 
 执行console命令：yii article/tag 来自动更新所有标签为空的文章。
-获取标签的算法比较简单，需要先下载base_dic_full.dic文件（ https://pan.baidu.com/s/1hrULt0S ），解压后将文件放于\wskm\char\dict目录里。
+>    获取标签的算法比较简单，需要先下载base_dic_full.dic文件（ https://pan.baidu.com/s/1hrULt0S ），解压后将文件放于\wskm\char\dict目录里。
 
 
 ## 路由
